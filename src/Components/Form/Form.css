@@ -1,0 +1,58 @@
+.card {
+  border: 3px solid chartreuse !important;
+  box-shadow: 0 5px 29px black !important;
+}
+
+.container h5 {
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.form-group label {
+  font-size: 16px;
+  font-weight: bold;
+  color: darkred;
+}
+
+.form-group input {
+  background-color: darksalmon;
+  border: 2px solid black;
+  border-radius: 22px;
+}
+
+.form-group textarea {
+  background-color: darksalmon;
+  border: 2px solid black;
+  border-radius: 22px;
+}
+
+.form-group input:focus {
+  background-color: darkturquoise;
+  border: 2px solid chartreuse;
+}
+
+.form-group textarea:focus {
+  background-color: darkturquoise;
+  border: 2px solid chartreuse;
+}
+
+.container button {
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 30px;
+  border: 2px solid black
+}
+
+.container button:hover {
+  background-color: rgb(53, 73, 110) !important;
+  color: chartreuse !important;
+  border: 2px solid chartreuse;
+}
+
+.textHover:hover {
+  color: rgb(59, 70, 49) !important;
+  cursor: pointer;
+}
