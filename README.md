@@ -1,6 +1,6 @@
 Visit the application by clicking below link
 
-http://skmalla.github.io/react-form-validation
+http://skmalla.github.io/form-vdn-code
 
 username: test@gmail.com
 
